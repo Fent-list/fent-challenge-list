@@ -5,8 +5,7 @@
     "creators": ["reversekidjuwa"],
     "verifier": "Login",
     "verification": "https://youtu.be/JuEs_ThKHp8",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "percentToQualify": 100,
     "records": [
     ]
 }
